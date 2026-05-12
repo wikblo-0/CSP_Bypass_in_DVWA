@@ -6,6 +6,8 @@ This repository stores the payloads used in the penetration testing of the Conte
 
 - high_security_level.js stores payloads used on the high security level.
 
-You can read more about the attack in the blog linked below, and there you will also find YouTube videos showing a screencast of each attack.
 
-https://pentesting-dvwa.hashnode.dev/ 
+
+You can read more about the attack in the blog here: https://pentesting-dvwa.hashnode.dev/
+
+You can watch a screencast of the attack here: https://youtu.be/jGBV9QWmff8?si=qyxCgbWd69gOA_0E
